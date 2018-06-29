@@ -1,24 +1,9 @@
-# README
+# Toy App - Rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Purpose
+To explore utilization of Rails and the power of simple web app creation.
 
-Things you may want to cover:
+The toy app creates a small microblog styled app, similar to Twitter.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Prompt - Chapter 2
+[Learn Web Development with Rails - Michael Hartle](https://www.railstutorial.org/book/toy_app)
